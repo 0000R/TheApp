@@ -1,4 +1,4 @@
-package com.example.models;
+package com.example.demo.models;
 
 public interface PhotosRepository {
 
